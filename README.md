@@ -1,1 +1,2 @@
 # interns
+information for interns
